@@ -1,93 +1,63 @@
-<div align="center">
-
 # Vamshi Krishna Bandari
 
-### MSc Artificial Intelligence · Applied Machine Learning · Intelligent Systems
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-krishna-bandari-623580212)
-[![Email](https://img.shields.io/badge/Contact-107620506%2BVamshiKrishnaBandari07%40users.noreply.github.com-555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:107620506+VamshiKrishnaBandari07@users.noreply.github.com)
-
-*Designing explainable, human-centered AI that translates research into practical impact.*
-
-</div>
+**MSc Artificial Intelligence** · Applied Machine Learning & Intelligent Systems  
+University of Roehampton, London · United Kingdom  
+[LinkedIn](https://www.linkedin.com/in/vamshi-krishna-bandari-623580212)
 
 ---
 
-## About Me
+### Profile
 
-I hold an **MSc in Artificial Intelligence** from the **University of Roehampton, London**. My research and engineering work sit at the intersection of **machine learning**, **intelligent agent systems**, and **applied AI for high-stakes domains** — particularly healthcare and decision support.
+I am a graduate researcher and software engineer working at the intersection of **machine learning**, **intelligent systems**, and **applied artificial intelligence**. My interests include predictive modeling, explainable AI, and the responsible design of software for complex, high-stakes environments.
 
-I am interested in systems that are **rigorous, interpretable, and responsibly deployed**: models clinicians and users can trust, architectures that respect privacy and governance, and software that augments expert judgment rather than replacing it.
-
-When I build, I care as much about **clarity, equity, and maintainability** as about model performance.
+I approach development with an emphasis on **interpretability**, **governance**, and **human oversight** — building tools that support expert decision-making rather than replacing it. I value clear engineering practices, reproducible research, and systems that are maintainable in production settings.
 
 ---
 
-## Featured Project
+### Expertise
 
-### [DonorLink](https://github.com/VamshiKrishnaBandari07/donorlink) — Clinical Decision-Support Platform
-
-A full-stack application exploring how agent-based AI, retrieval-grounded knowledge, and predictive analytics can improve complex care pathways — applied here to the living kidney donation journey.
-
-| | |
-|---|---|
-| **Stack** | FastAPI · React · TypeScript · RAG · XGBoost-style ML |
-| **Focus** | Donor Interventions · Center Practices · Clinical Decision Support |
-| **Standards** | HIPAA-aligned · Section 508 · HL7 FHIR-ready |
-
-```text
-Donor Portal ──► Educator · Logistician · Empathy Engine ──► Verified ASN/UNOS Knowledge Base
-Coordinator Dashboard ──► Dropout Risk + SHAP ──► Human-in-the-Loop Outreach
-```
+| Area | Focus |
+|------|--------|
+| **Machine Learning** | Predictive modeling, classification, time-series analysis, model evaluation |
+| **Intelligent Systems** | Agent-based architectures, knowledge-grounded retrieval, workflow automation |
+| **Software Engineering** | API design, full-stack development, data pipelines, version control, CI/CD |
+| **Applied Research** | Healthcare informatics, clinical decision support, risk analytics, responsible AI |
 
 ---
 
-## Research & Projects
+### Selected Work
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**donorlink**](https://github.com/VamshiKrishnaBandari07/donorlink) | Intelligent decision-support platform for clinical care pathways | `FastAPI` `React` `ML` |
-| [**MSc-CAPSTONE-PROJECT-SOH-RUL-PREDICTION--**](https://github.com/VamshiKrishnaBandari07/MSc-CAPSTONE-PROJECT-SOH-RUL-PREDICTION--) | State of health & remaining useful life prediction | `Python` `ML` |
-| [**Credit-Risk-Prediction-Agent**](https://github.com/VamshiKrishnaBandari07/Credit-Risk-Prediction-Agent) | Automated loan risk classification agent | `Jupyter` `ML` |
-| [**DT-AttNet**](https://github.com/VamshiKrishnaBandari07/DT-AttNet) | Deep learning attention-based architecture | `Python` |
+#### [DonorLink](https://github.com/VamshiKrishnaBandari07/donorlink)
+*Clinical decision-support platform*
 
----
+A full-stack research prototype investigating how intelligent agents, retrieval-grounded knowledge systems, and predictive analytics can support complex clinical pathways. The platform includes separate interfaces for patient education and clinical coordination, with explainability and compliance-oriented design principles throughout.
 
-## Technical Focus
-
-**Artificial Intelligence** — Machine learning · Predictive modeling · Large language models · Multi-agent systems · Explainable AI
-
-**Software Engineering** — FastAPI · React · TypeScript · REST APIs · SQL · Git · CI/CD
-
-**Applied Domains** — Healthcare informatics · Clinical decision support · Risk analytics · Responsible AI
+**Technologies:** Python, FastAPI, React, TypeScript, SQL
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VamshiKrishnaBandari07&show_icons=true&theme=tokyo_night&hide_border=true&count_private=false" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamshiKrishnaBandari07&layout=compact&theme=tokyo_night&hide_border=true" height="165" alt="Top languages" />
-
-</div>
+| Repository | Summary |
+|------------|---------|
+| [donorlink](https://github.com/VamshiKrishnaBandari07/donorlink) | Clinical decision-support and predictive analytics platform |
+| [MSc-CAPSTONE-PROJECT-SOH-RUL-PREDICTION--](https://github.com/VamshiKrishnaBandari07/MSc-CAPSTONE-PROJECT-SOH-RUL-PREDICTION--) | State of health and remaining useful life prediction (MSc capstone) |
+| [Credit-Risk-Prediction-Agent](https://github.com/VamshiKrishnaBandari07/Credit-Risk-Prediction-Agent) | Automated credit risk assessment and classification system |
+| [DT-AttNet](https://github.com/VamshiKrishnaBandari07/DT-AttNet) | Deep learning model with attention-based architecture |
 
 ---
 
-## Education
+### Education
 
-**MSc Artificial Intelligence** — University of Roehampton, London
-
----
-
-## Philosophy
-
-> *Strong AI is measured not only by accuracy, but by transparency, accountability, and the people it serves.*
+**MSc, Artificial Intelligence**  
+University of Roehampton, London
 
 ---
 
-<div align="center">
+### Contact
 
-**Open to research collaborations, graduate opportunities, and applied AI projects.**
+For professional inquiries, collaborations, or research discussions:
 
-</div>
+**[linkedin.com/in/vamshi-krishna-bandari-623580212](https://www.linkedin.com/in/vamshi-krishna-bandari-623580212)**
+
+---
+
+<p align="center"><sub>Open to research collaborations, graduate opportunities, and applied AI engineering roles.</sub></p>

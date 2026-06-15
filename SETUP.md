@@ -33,7 +33,7 @@ Go to: https://github.com/settings/profile
 | Field | Recommended value |
 |-------|-------------------|
 | **Name** | Vamshi Krishna Bandari |
-| **Bio** | MSc Artificial Intelligence · Applied ML researcher · Intelligent systems for healthcare & decision support |
+| **Bio** | MSc Artificial Intelligence · Applied ML & intelligent systems · Healthcare & decision support |
 | **Company** | University of Roehampton |
 | **Location** | London, United Kingdom |
 | **Website** | https://www.linkedin.com/in/vamshi-krishna-bandari-623580212 |
@@ -42,13 +42,13 @@ Go to: https://github.com/settings/profile
 
 Pick one for **Settings → Profile → Bio**:
 
-1. **Recommended:** `MSc Artificial Intelligence · Applied ML researcher · Intelligent systems for healthcare & decision support` *(97 chars)*
+1. **Recommended:** `MSc Artificial Intelligence · Applied ML & intelligent systems · Healthcare & decision support` *(88 chars)*
 
-2. `MSc Artificial Intelligence graduate · Explainable AI, predictive modeling & intelligent systems for real-world applications` *(119 chars)*
+2. `MSc Artificial Intelligence graduate · Machine learning, explainable AI & intelligent systems for applied research` *(113 chars)*
 
-3. `MSc AI · Researching machine learning and intelligent systems for healthcare, analytics, and responsible deployment` *(112 chars)*
+3. `Graduate researcher in Artificial Intelligence · Predictive modeling · Intelligent systems · Software engineering` *(109 chars)*
 
-4. **Short:** `MSc Artificial Intelligence · Machine learning · Intelligent systems · Applied research` *(78 chars)*
+4. **Short:** `MSc Artificial Intelligence · Machine learning · Applied research · Software engineering` *(76 chars)*
 
 ## Step 3 — Pin your best repositories (6 max)
 
