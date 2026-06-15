@@ -1,6 +1,6 @@
 # Vamshi Krishna Bandari
 
-**MSc Artificial Intelligence** · Applied Machine Learning & Intelligent Systems  
+**MSc Artificial Intelligence** · Machine Learning Research & Applied Engineering  
 University of Roehampton, London · United Kingdom  
 [LinkedIn](https://www.linkedin.com/in/vamshi-krishna-bandari-623580212)
 
@@ -8,56 +8,59 @@ University of Roehampton, London · United Kingdom
 
 ### Profile
 
-I am a graduate researcher and software engineer working at the intersection of **machine learning**, **intelligent systems**, and **applied artificial intelligence**. My interests include predictive modeling, explainable AI, and the responsible design of software for complex, high-stakes environments.
+I am an **MSc Artificial Intelligence graduate** with a dual focus on **research rigor** and **production-oriented engineering**. My work spans predictive modeling, intelligent system design, and the development of software that meets the standards required in regulated, real-world environments.
 
-I approach development with an emphasis on **interpretability**, **governance**, and **human oversight** — building tools that support expert decision-making rather than replacing it. I value clear engineering practices, reproducible research, and systems that are maintainable in production settings.
+I am particularly interested in **explainable machine learning**, **human-in-the-loop AI**, and **decision-support systems** where accuracy alone is insufficient — trust, transparency, and accountability matter equally. I combine academic methodology with practical full-stack implementation, from model development through to deployable applications.
 
 ---
 
-### Expertise
+### Core Competencies
 
-| Area | Focus |
-|------|--------|
-| **Machine Learning** | Predictive modeling, classification, time-series analysis, model evaluation |
-| **Intelligent Systems** | Agent-based architectures, knowledge-grounded retrieval, workflow automation |
-| **Software Engineering** | API design, full-stack development, data pipelines, version control, CI/CD |
-| **Applied Research** | Healthcare informatics, clinical decision support, risk analytics, responsible AI |
+| Domain | Capabilities |
+|--------|--------------|
+| **Machine Learning** | Supervised learning, predictive modeling, time-series forecasting, evaluation & validation |
+| **AI Systems** | Intelligent agents, knowledge-grounded retrieval, workflow orchestration, explainability |
+| **Engineering** | Python, FastAPI, React, TypeScript, REST APIs, SQL, Git, automated testing, CI/CD |
+| **Research Practice** | Literature-informed design, reproducible experiments, structured documentation, ethical AI |
 
 ---
 
 ### Selected Work
 
 #### [DonorLink](https://github.com/VamshiKrishnaBandari07/donorlink)
-*Clinical decision-support platform*
+*Full-stack clinical decision-support platform*
 
-A full-stack research prototype investigating how intelligent agents, retrieval-grounded knowledge systems, and predictive analytics can support complex clinical pathways. The platform includes separate interfaces for patient education and clinical coordination, with explainability and compliance-oriented design principles throughout.
+End-to-end platform combining intelligent agent workflows, retrieval-grounded medical knowledge, and predictive analytics to support complex care coordination. Designed with separate stakeholder interfaces, explainable model outputs, and compliance-aware architecture suitable for clinical evaluation contexts.
 
-**Technologies:** Python, FastAPI, React, TypeScript, SQL
+`Python` · `FastAPI` · `React` · `TypeScript` · `SQL`
 
----
+#### Additional Repositories
 
-| Repository | Summary |
-|------------|---------|
-| [donorlink](https://github.com/VamshiKrishnaBandari07/donorlink) | Clinical decision-support and predictive analytics platform |
-| [MSc-CAPSTONE-PROJECT-SOH-RUL-PREDICTION--](https://github.com/VamshiKrishnaBandari07/MSc-CAPSTONE-PROJECT-SOH-RUL-PREDICTION--) | State of health and remaining useful life prediction (MSc capstone) |
-| [Credit-Risk-Prediction-Agent](https://github.com/VamshiKrishnaBandari07/Credit-Risk-Prediction-Agent) | Automated credit risk assessment and classification system |
-| [DT-AttNet](https://github.com/VamshiKrishnaBandari07/DT-AttNet) | Deep learning model with attention-based architecture |
+| Project | Description |
+|---------|-------------|
+| [MSc Capstone — SOH & RUL Prediction](https://github.com/VamshiKrishnaBandari07/MSc-CAPSTONE-PROJECT-SOH-RUL-PREDICTION--) | Master's research project on state-of-health estimation and remaining useful life prediction |
+| [Credit Risk Prediction Agent](https://github.com/VamshiKrishnaBandari07/Credit-Risk-Prediction-Agent) | Data-driven credit risk classification system for lending decision support |
+| [DT-AttNet](https://github.com/VamshiKrishnaBandari07/DT-AttNet) | Deep learning architecture incorporating attention mechanisms |
 
 ---
 
 ### Education
 
-**MSc, Artificial Intelligence**  
+**Master of Science, Artificial Intelligence**  
 University of Roehampton, London
+
+Relevant concentration: machine learning, intelligent systems, applied AI research methods, and software engineering for data-driven applications.
+
+---
+
+### Professional Interests
+
+Research roles · Applied ML engineering · Healthcare & decision-support AI · Graduate programmes · Industry R&D
 
 ---
 
 ### Contact
 
-For professional inquiries, collaborations, or research discussions:
+**[LinkedIn — Vamshi Krishna Bandari](https://www.linkedin.com/in/vamshi-krishna-bandari-623580212)**
 
-**[linkedin.com/in/vamshi-krishna-bandari-623580212](https://www.linkedin.com/in/vamshi-krishna-bandari-623580212)**
-
----
-
-<p align="center"><sub>Open to research collaborations, graduate opportunities, and applied AI engineering roles.</sub></p>
+Available for research collaborations, graduate opportunities, and applied AI engineering roles.
