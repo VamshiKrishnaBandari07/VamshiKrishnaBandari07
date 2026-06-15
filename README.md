@@ -2,13 +2,12 @@
 
 # Vamshi Krishna Bandari
 
-### MSc Artificial Intelligence · LLM-Agentic Systems · Healthcare AI
+### MSc Artificial Intelligence · Applied Machine Learning · Intelligent Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-krishna-bandari-623580212)
-[![KidneyX](https://img.shields.io/badge/KidneyX-EMPOWER-1e3a5f?style=for-the-badge&labelColor=3b82f6)](https://www.kidneyx.org/prize-competitions/empower-prize-challenge/)
 [![Email](https://img.shields.io/badge/Contact-107620506%2BVamshiKrishnaBandari07%40users.noreply.github.com-555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:107620506+VamshiKrishnaBandari07@users.noreply.github.com)
 
-*Building intelligent systems that bridge rigorous AI research and real-world clinical impact.*
+*Designing explainable, human-centered AI that translates research into practical impact.*
 
 </div>
 
@@ -16,19 +15,19 @@
 
 ## About Me
 
-I am an **MSc Artificial Intelligence** researcher at the **University of Roehampton, London**, specializing in **LLM-agentic architectures**, **RAG-enhanced healthcare diagnostics**, and **clinical predictive modeling**.
+I hold an **MSc in Artificial Intelligence** from the **University of Roehampton, London**. My research and engineering work sit at the intersection of **machine learning**, **intelligent agent systems**, and **applied AI for high-stakes domains** — particularly healthcare and decision support.
 
-My work focuses on designing **human-in-the-loop** AI systems that are explainable, HIPAA-aware, and built for equitable patient outcomes — not black-box automation.
+I am interested in systems that are **rigorous, interpretable, and responsibly deployed**: models clinicians and users can trust, architectures that respect privacy and governance, and software that augments expert judgment rather than replacing it.
 
-**Currently:** Team **VK7** · [KidneyX EMPOWER: Living Link Prize](https://www.kidneyx.org/prize-competitions/empower-prize-challenge/) · **DonorLink**
+When I build, I care as much about **clarity, equity, and maintainability** as about model performance.
 
 ---
 
 ## Featured Project
 
-### [DonorLink](https://github.com/VamshiKrishnaBandari07/donorlink) — Agentic AI for Living Kidney Donation
+### [DonorLink](https://github.com/VamshiKrishnaBandari07/donorlink) — Clinical Decision-Support Platform
 
-A full-stack platform modernizing the living donation journey with RAG-grounded education, multi-agent donor support, and SHAP-explainable dropout-risk analytics for transplant coordinators.
+A full-stack application exploring how agent-based AI, retrieval-grounded knowledge, and predictive analytics can improve complex care pathways — applied here to the living kidney donation journey.
 
 | | |
 |---|---|
@@ -47,7 +46,7 @@ Coordinator Dashboard ──► Dropout Risk + SHAP ──► Human-in-the-Loop 
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**donorlink**](https://github.com/VamshiKrishnaBandari07/donorlink) | Agentic living donation platform · KidneyX EMPOWER | `FastAPI` `React` `RAG` |
+| [**donorlink**](https://github.com/VamshiKrishnaBandari07/donorlink) | Intelligent decision-support platform for clinical care pathways | `FastAPI` `React` `ML` |
 | [**MSc-CAPSTONE-PROJECT-SOH-RUL-PREDICTION--**](https://github.com/VamshiKrishnaBandari07/MSc-CAPSTONE-PROJECT-SOH-RUL-PREDICTION--) | State of health & remaining useful life prediction | `Python` `ML` |
 | [**Credit-Risk-Prediction-Agent**](https://github.com/VamshiKrishnaBandari07/Credit-Risk-Prediction-Agent) | Automated loan risk classification agent | `Jupyter` `ML` |
 | [**DT-AttNet**](https://github.com/VamshiKrishnaBandari07/DT-AttNet) | Deep learning attention-based architecture | `Python` |
@@ -56,14 +55,11 @@ Coordinator Dashboard ──► Dropout Risk + SHAP ──► Human-in-the-Loop 
 
 ## Technical Focus
 
-**AI & ML**
-`Large Language Models` · `Multi-Agent Systems` · `RAG` · `Explainable AI (SHAP)` · `Predictive Modeling` · `XGBoost`
+**Artificial Intelligence** — Machine learning · Predictive modeling · Large language models · Multi-agent systems · Explainable AI
 
-**Engineering**
-`FastAPI` · `React` · `TypeScript` · `SQLAlchemy` · `REST APIs` · `Git` · `CI/CD`
+**Software Engineering** — FastAPI · React · TypeScript · REST APIs · SQL · Git · CI/CD
 
-**Healthcare & Compliance**
-`Clinical Decision Support` · `Health Literacy` · `HIPAA-Aware Design` · `FHIR Integration` · `Section 508`
+**Applied Domains** — Healthcare informatics · Clinical decision support · Risk analytics · Responsible AI
 
 ---
 
@@ -86,16 +82,12 @@ Coordinator Dashboard ──► Dropout Risk + SHAP ──► Human-in-the-Loop 
 
 ## Philosophy
 
-> *The best healthcare AI supports clinicians and patients — it never replaces clinical judgment.*
-
-I build systems that prioritize **transparency**, **data sovereignty**, and **equitable access** to understandable medical information.
+> *Strong AI is measured not only by accuracy, but by transparency, accountability, and the people it serves.*
 
 ---
 
 <div align="center">
 
-**Open to collaborations in healthcare AI, agentic systems, and clinical decision support.**
-
-⭐ If you find [DonorLink](https://github.com/VamshiKrishnaBandari07/donorlink) meaningful, consider starring the repository.
+**Open to research collaborations, graduate opportunities, and applied AI projects.**
 
 </div>

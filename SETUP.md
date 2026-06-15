@@ -33,13 +33,22 @@ Go to: https://github.com/settings/profile
 | Field | Recommended value |
 |-------|-------------------|
 | **Name** | Vamshi Krishna Bandari |
-| **Bio** | MSc AI · LLM-agentic systems · RAG healthcare · KidneyX EMPOWER · Building DonorLink |
+| **Bio** | MSc Artificial Intelligence · Applied ML researcher · Intelligent systems for healthcare & decision support |
 | **Company** | University of Roehampton |
 | **Location** | London, United Kingdom |
 | **Website** | https://www.linkedin.com/in/vamshi-krishna-bandari-623580212 |
-| **Pronouns** | *(optional)* |
 
----
+### Alternative bios (GitHub limit: 160 characters)
+
+Pick one for **Settings → Profile → Bio**:
+
+1. **Recommended:** `MSc Artificial Intelligence · Applied ML researcher · Intelligent systems for healthcare & decision support` *(97 chars)*
+
+2. `MSc Artificial Intelligence graduate · Explainable AI, predictive modeling & intelligent systems for real-world applications` *(119 chars)*
+
+3. `MSc AI · Researching machine learning and intelligent systems for healthcare, analytics, and responsible deployment` *(112 chars)*
+
+4. **Short:** `MSc Artificial Intelligence · Machine learning · Intelligent systems · Applied research` *(78 chars)*
 
 ## Step 3 — Pin your best repositories (6 max)
 
