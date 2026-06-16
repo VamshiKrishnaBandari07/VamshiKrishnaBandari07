@@ -18,6 +18,16 @@ B.Tech in Electrical and Electronics Engineering (IARE, Hyderabad) → Cognizant
 
 ---
 
+### London Hackathons
+
+| Event | Focus | Location |
+|-------|-------|----------|
+| **MongoDB Agentic Evolution Hackathon** | Agentic AI · LangChain · NVIDIA · MongoDB.local London | London |
+| **Encode Vibe Coding Hackathon** | AI-only build · Encode Hub · Shoreditch | London |
+| [**FRC × ODI Innovation Sprint**](https://www.linkedin.com/posts/vamshi-krishna-bandari-623580212_frchackthon-ai-fintech-activity-7443460515583934464-_NxX) | XBRL-to-AI-ready JSON · FinTech data engineering | London |
+
+---
+
 ### Selected Projects
 
 | Project | Description | Stack |
@@ -51,6 +61,7 @@ B.Tech in Electrical and Electronics Engineering (IARE, Hyderabad) → Cognizant
 
 ### Highlights
 
+- MongoDB Agentic Evolution · Encode Vibe Coding · FRC × ODI London hackathons
 - London Tech Week 2026 · Chamber UK Policy Forum  
 - 13+ AI & data certifications (Microsoft, Google Cloud, IBM, Oracle)  
 - 40% data integrity improvement at Cognizant · Google Cloud  
