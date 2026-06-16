@@ -1,16 +1,33 @@
 # Vamshi Krishna Bandari
 
-**MSc Artificial Intelligence** · Machine Learning Research & Applied Engineering  
+**AI Engineer · MSc Artificial Intelligence**  
 University of Roehampton, London · United Kingdom  
-[LinkedIn](https://www.linkedin.com/in/vamshi-krishna-bandari-623580212)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-38bdf8?style=for-the-badge&logo=github)](https://vamshikrishnabandari07.github.io/profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vamshi-krishna-bandari-623580212)
 
 ---
 
-### Profile
+### About
 
-I am an **MSc Artificial Intelligence graduate** with a dual focus on **research rigor** and **production-oriented engineering**. My work spans predictive modeling, intelligent system design, and the development of software that meets the standards required in regulated, real-world environments.
+Artificial Intelligence enthusiast with an engineering foundation and a research-oriented MSc — focused on building reliable, data-driven intelligent systems across **machine learning**, **generative AI**, and **intelligent agents**.
 
-I am particularly interested in **explainable machine learning**, **human-in-the-loop AI**, and **decision-support systems** where accuracy alone is insufficient — trust, transparency, and accountability matter equally. I combine academic methodology with practical full-stack implementation, from model development through to deployable applications.
+B.Tech in Electrical and Electronics Engineering (IARE, Hyderabad) → Cognizant · Google Cloud → MSc AI (Roehampton) → AI-Driven Business Development Intern at Crown Fund, London.
+
+**Portfolio:** [vamshikrishnabandari07.github.io/profile](https://vamshikrishnabandari07.github.io/profile/)
+
+---
+
+### Selected Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**DonorLink**](https://github.com/VamshiKrishnaBandari07/donorlink) | Full-stack agentic AI platform with RAG-grounded knowledge, multi-agent workflows, and predictive analytics | FastAPI · React · TypeScript · ML |
+| [**SOH & RUL Prediction**](https://github.com/VamshiKrishnaBandari07/MSc-CAPSTONE-PROJECT-SOH-RUL-PREDICTION--) | MSc capstone — battery state-of-health and remaining useful life prediction using time-series ML | Python · Time Series · ML |
+| [**DT-AttNet**](https://github.com/VamshiKrishnaBandari07/DT-AttNet) | Dual-Head Temporal Attention Network — CNN, BiLSTM, and multi-head self-attention for risk prediction | PyTorch · Deep Learning |
+| [**Credit Risk Prediction Agent**](https://github.com/VamshiKrishnaBandari07/Credit-Risk-Prediction-Agent) | Lending risk classification with Naive Bayes, Random Forest, and KNN — ROC-AUC evaluation | Python · Scikit-learn |
+| [**FRC × ODI Innovation Sprint**](https://www.linkedin.com/posts/vamshi-krishna-bandari-623580212_frchackthon-ai-fintech-activity-7443460515583934464-_NxX) | XBRL-to-AI-ready JSON transformation for structured financial data analytics | Python · XBRL · FinTech |
+| [**Smart Energy Metering**](https://www.linkedin.com/in/vamshi-krishna-bandari-623580212) | IoT smart energy metering system — B.Tech project at IARE | Embedded Systems · IoT · EEE |
 
 ---
 
@@ -18,49 +35,31 @@ I am particularly interested in **explainable machine learning**, **human-in-the
 
 | Domain | Capabilities |
 |--------|--------------|
-| **Machine Learning** | Supervised learning, predictive modeling, time-series forecasting, evaluation & validation |
-| **AI Systems** | Intelligent agents, knowledge-grounded retrieval, workflow orchestration, explainability |
-| **Engineering** | Python, FastAPI, React, TypeScript, REST APIs, SQL, Git, automated testing, CI/CD |
-| **Research Practice** | Literature-informed design, reproducible experiments, structured documentation, ethical AI |
-
----
-
-### Selected Work
-
-#### [DonorLink](https://github.com/VamshiKrishnaBandari07/donorlink)
-*Full-stack clinical decision-support platform*
-
-End-to-end platform combining intelligent agent workflows, retrieval-grounded medical knowledge, and predictive analytics to support complex care coordination. Designed with separate stakeholder interfaces, explainable model outputs, and compliance-aware architecture suitable for clinical evaluation contexts.
-
-`Python` · `FastAPI` · `React` · `TypeScript` · `SQL`
-
-#### Additional Repositories
-
-| Project | Description |
-|---------|-------------|
-| [MSc Capstone — SOH & RUL Prediction](https://github.com/VamshiKrishnaBandari07/MSc-CAPSTONE-PROJECT-SOH-RUL-PREDICTION--) | Master's research project on state-of-health estimation and remaining useful life prediction |
-| [Credit Risk Prediction Agent](https://github.com/VamshiKrishnaBandari07/Credit-Risk-Prediction-Agent) | Data-driven credit risk classification system for lending decision support |
-| [DT-AttNet](https://github.com/VamshiKrishnaBandari07/DT-AttNet) | Deep learning architecture incorporating attention mechanisms |
+| **Machine Learning** | Supervised learning, time-series forecasting, predictive modelling, evaluation & validation |
+| **Generative AI & Agents** | RAG systems, multi-agent workflows, LLM tooling, intelligent automation |
+| **Engineering** | Python, FastAPI, React, TypeScript, PyTorch, SQL, Git, CI/CD |
+| **Data** | ETL pipelines, KPI dashboards, Power BI, data integrity & analytics |
 
 ---
 
 ### Education
 
-**Master of Science, Artificial Intelligence**  
-University of Roehampton, London
-
-Relevant concentration: machine learning, intelligent systems, applied AI research methods, and software engineering for data-driven applications.
+**MSc Artificial Intelligence** — University of Roehampton, London  
+**B.Tech Electrical & Electronics Engineering** — Institute of Aeronautical Engineering (IARE), Hyderabad
 
 ---
 
-### Professional Interests
+### Highlights
 
-Research roles · Applied ML engineering · Healthcare & decision-support AI · Graduate programmes · Industry R&D
+- London Tech Week 2026 · Chamber UK Policy Forum  
+- 13+ AI & data certifications (Microsoft, Google Cloud, IBM, Oracle)  
+- 40% data integrity improvement at Cognizant · Google Cloud  
+- 2nd place — inter-college data analytics hackathon (IARE)
 
 ---
 
 ### Contact
 
-**[LinkedIn — Vamshi Krishna Bandari](https://www.linkedin.com/in/vamshi-krishna-bandari-623580212)**
+**[LinkedIn](https://www.linkedin.com/in/vamshi-krishna-bandari-623580212)** · **[Portfolio](https://vamshikrishnabandari07.github.io/profile/)** · **bvamshikrishna300@gmail.com**
 
-Available for research collaborations, graduate opportunities, and applied AI engineering roles.
+Open to AI engineering roles, graduate opportunities, and research collaborations.
